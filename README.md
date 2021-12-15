@@ -2,7 +2,7 @@
 
 ## I'm a Student at Medieinstitutet in Stockholm
 
-- ⚡ I’m currently learning React.
+- ⚡ I’m currently learning Typescript & Next.js.
 
 <br/>
 
